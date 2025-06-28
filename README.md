@@ -6,7 +6,6 @@ It aims to demonstrate how linear regression works under the hood, how gradient 
 
 📊 What This Project Covers
 💡 Understanding the concept of Mean Squared Error (MSE) as a cost function
-⛰️ Implementing Gradient Descent with the mountain analogy
 📈 Visualizing the fitted line on synthetic data
 🔍 Comparing custom implementation with:
 LinearRegression (closed-form)
@@ -30,7 +29,6 @@ Graphs showing fitted lines and convergence
 MSE values for each method
 
 ✍️ Author
-### ✍️ Author
 **Nicolas Morganti**  
   Master's student in Applied Probabilities and Statistics  
   Passionate about machine learning, finance, and data science  
